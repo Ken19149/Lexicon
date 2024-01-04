@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Lexicon",
+    "description": "Accelerate language learner's vocabualary",
+    "version": "0.1",
+    "action": {
+      "default_popup": "popup/test.html",
+      "default_icon": "images/icon-16.png"
+    }
+  }
